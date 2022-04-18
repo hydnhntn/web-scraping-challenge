@@ -1,0 +1,19 @@
+.media-header {
+    margin-top: 20px;
+}
+
+#featured-img {
+    max-width: 90%;
+}
+
+.caption {
+    margin-top: 20px;
+}
+
+#hemi-img {
+    min-width: 100%;
+}
+
+.table {
+    font-size: small;
+}
